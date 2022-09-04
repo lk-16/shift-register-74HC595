@@ -5,7 +5,7 @@
     - einfaches Abrufen aller Daten
     - wenig sichtbarer Programmieraufwand --> weniger Fehler
 
-    Lennart Klüner 14.10.2020
+    lk-16 14.10.2020
 */
 #include <shiftregister.h>                         //include into libary
 
