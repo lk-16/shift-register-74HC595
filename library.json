@@ -1,0 +1,7 @@
+{
+  "name": "shiftregister",
+  "version": "0.0.0+20220903143635",
+  "authors": "Lennart Klüner",
+  "description": "A libary that allows to control a shift register easily.",
+  "headers": "shiftregister.h"
+}
